@@ -50,9 +50,8 @@ This project demonstrates an **AI-powered recommendation system** that allows us
 ```
 shopping-app-recommendation-system/
 ├── app.py             # Streamlit app implementation
-├── requirements.txt   # Dependencies
 ├── database/          # SQLite database and related files
-├── utils/             # Utility scripts for data preprocessing
+├── embedding_generate.ipynb             # data preprocessing
 └── README.md          # Project documentation
 ```
 
