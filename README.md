@@ -29,15 +29,10 @@ This project demonstrates an **AI-powered recommendation system** that allows us
 ## Setup and Installation 📦
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/shopping-app-recommendation-system.git
+   git clone https://github.com/ankitroy22/shopping_app.git
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
+2. Run the Streamlit app:
    ```bash
    streamlit run app.py
    ```
@@ -81,4 +76,4 @@ shopping-app-recommendation-system/
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact 📧
-For queries or feedback, feel free to reach out via [email@example.com](mailto:email@example.com).
+For queries or feedback, feel free to reach out via [ankitroy8521@gmail.com](mailto:ankitroy8521@gmail.com).
